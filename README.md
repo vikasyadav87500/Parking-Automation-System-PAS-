@@ -20,5 +20,3 @@ Many residential society administrations, tolls, business complexes and parking 
 
 ![](FlowChart/image5.png)
 
-
-![](DemoVideo/media1.wmv)
